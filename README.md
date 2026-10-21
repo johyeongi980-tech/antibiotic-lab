@@ -14,7 +14,7 @@
 
 ### 데스크톱 (Windows)
 1. (https://drive.google.com/file/d/1mI9bDLgy8dIOqo_e5ukr2z_RJ7FpqZV4/view?usp=sharing )에서 파일을 내려받아 압축을 풉니다.
-2. `Antibiotic Lab.exe`를 실행합니다.
+2. `AntibioticLab.exe`를 실행합니다.
 3. 서명하지 않은 프로그램이라 Windows 보안 경고가 나올 수 있습니다. 직접 만든 게임이므로 추가 정보 → 실행을 누르면 됩니다.
 4. 진행 상황은 컴퓨터의 사용자 데이터 폴더에 저장됩니다.
 
