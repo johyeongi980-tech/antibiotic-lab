@@ -29,7 +29,9 @@
 ## 사용한 글꼴
 
 | 글꼴 | 용도 | 출처 | 라이선스 |
+
 | 나눔명조 | 게임 전체 글자 | 네이버 나눔글꼴 | SIL Open Font License 1.1 |
+
 | DejaVu Sans | 기호(▶ ✔ ✘ 등) 보조 | https://dejavu-fonts.github.io | DejaVu 폰트 라이선스(자유 배포 가능) |
 
 각 글꼴의 라이선스 전문은 `LICENSES` 폴더에 함께 담았습니다.
